@@ -1,4 +1,4 @@
-# ReadMe: Analysis for Temporal Reliability of Contingent Behavior Trip Data in Kuhn-Tucker Recreation Demand Models (Xie and Adamowicz, Land Economics)
+# Analysis for Temporal Reliability of Contingent Behavior Trip Data in Kuhn-Tucker Recreation Demand Models (Xie and Adamowicz, Land Economics)
 
 ## Overview
 
