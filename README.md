@@ -5,7 +5,9 @@
 This repository includes R code to conduct analyses in [Temporal Reliability of Contingent Behavior Trip Data in Kuhn-Tucker Recreation Demand Models](https://le.uwpress.org/content/early/2022/09/14/le.030521-0025R#:~:text=Unlike%20other%20stated%20preference%20methods%2C%20the%20temporal%20reliability,data%20collected%20over%20three%20years%20in%20KT%20models.). 
 
 1. Survey data is not included. Datasets include the following variables (see Table 2 in the manuscript for descriptions):  
+
 | Name of variable | Description | Variable type|
+| ----------- | ----------- | ----------- |
 | id | Id variable, one value for each respondent in each CB scenario | Integer|
 | choice | Site variable, one value for each alternative site | Integer|
 | trips | Number of hunting trips to each site | Integer|
