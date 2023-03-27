@@ -23,6 +23,7 @@ This repository includes R code to conduct analyses in [Temporal Reliability of 
 | urban | Indicator if respondents live in the urban areas | Binary|
 | college | Indicator if respondents have a college degree | Binary|
 | yrshunt | Years of hunting experience | Continuous|
+| asc | Alternative specific constants: one for each site | Binary|
 
 2. Names of the code files indicate the order to replicate outputs prepared for Tables 2, 3, and 4, Figures 1, 2, and 3, as well as appendices. 
 
